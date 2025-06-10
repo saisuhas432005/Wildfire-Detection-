@@ -1,7 +1,9 @@
 🔥 Wildfire Detection with InceptionV3
+
 ->This project uses a deep learning model (InceptionV3) to detect wildfires in images.
 
 🚀 Features
+
 ->Trained on Wildfire Dataset
 
 ->Binary classification: fire 🔥 vs nofire 🌲
