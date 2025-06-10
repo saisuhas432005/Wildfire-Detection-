@@ -1,0 +1,9 @@
+Dataset Link - https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset
+
+Code to Import from Kaggle directly - 
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
+
+print("Path to dataset files:", path) 
